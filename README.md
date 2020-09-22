@@ -1,7 +1,5 @@
 # IAM Role Cleanser
 
-[TOC]
-
 ### Quick Start
 
 ```bash
